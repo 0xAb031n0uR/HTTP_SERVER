@@ -1,0 +1,44 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Projects\NETWORK\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Projects\TOKAA\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Projects\New folder\ZIZI\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Projects\New folder\NET\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb

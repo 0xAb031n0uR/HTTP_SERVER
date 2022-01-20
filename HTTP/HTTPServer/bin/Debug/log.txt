@@ -1,0 +1,144 @@
+Date time: 12/29/2021 5:47:50 PM
+Message: 192.168.1.64:64470 | The given path's format is not supported.
+------------------------------------
+Date time: 12/29/2021 5:48:31 PM
+Message: 192.168.1.64:49549 | The given path's format is not supported.
+------------------------------------
+Date time: 12/29/2021 5:50:28 PM
+Message: 192.168.1.64:50060 | The given path's format is not supported.
+------------------------------------
+Date time: 12/29/2021 5:53:57 PM
+Message: 192.168.1.64:64280 | The process cannot access the file 'D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\Data.txt' because it is being used by another process.
+------------------------------------
+Date time: 12/29/2021 5:56:53 PM
+Message: 192.168.1.64:61327 | The process cannot access the file 'D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\192.168.1.64_61327.txt' because it is being used by another process.
+------------------------------------
+Date time: 12/29/2021 5:57:34 PM
+Message: 192.168.1.64:60030 | The process cannot access the file 'D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\192.168.1.64_60030.txt' because it is being used by another process.
+------------------------------------
+Date time: 12/29/2021 5:58:23 PM
+Message: 192.168.1.64:64349 | The process cannot access the file 'D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\192.168.1.64_64349.txt' because it is being used by another process.
+------------------------------------
+Date time: 12/29/2021 6:01:44 PM
+Message: 192.168.1.64:52836 | The process cannot access the file 'D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\192.168.1.64_52836.txt' because it is being used by another process.
+------------------------------------
+Date time: 12/29/2021 6:06:16 PM
+Message: 192.168.1.64:61132 | The process cannot access the file 'D:\Projects\NETWORK\PRO\Template[2021-2022]\HTTPServer\bin\Debug\InterNetwork.txt' because it is being used by another process.
+------------------------------------
+Date time: 12/29/2021 10:24:34 PM
+Message: 192.168.1.10:39187 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/29/2021 10:31:40 PM
+Message: 192.168.1.64:65191 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/29/2021 10:35:24 PM
+Message: 192.168.1.64:62587 | Could not find file 'C:\inetpub\wwwroot\fcis1/posadifpsodifsdf'.
+------------------------------------
+Date time: 12/29/2021 10:36:18 PM
+Message: 192.168.1.64:54807 | Could not find file 'C:\inetpub\wwwroot\fcis1/posadifpsodifsdf'.
+------------------------------------
+Date time: 12/29/2021 10:43:18 PM
+Message: 192.168.1.64:60597 | Could not find file 'C:\inetpub\wwwroot\fcis1/l'.
+------------------------------------
+Date time: 12/29/2021 10:43:22 PM
+Message: 192.168.1.64:60598 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/29/2021 11:13:45 PM
+Message: 192.168.1.64:49499 | Could not find file 'C:\inetpub\wwwroot\fcis1/aasdasdasd'.
+------------------------------------
+Date time: 12/29/2021 11:13:55 PM
+Message: 192.168.1.64:49501 | Could not find file 'C:\inetpub\wwwroot\fcis1/asdasd'.
+------------------------------------
+Date time: 12/30/2021 12:32:12 AM
+Message: 127.0.0.1:59979 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 12:32:28 AM
+Message: 127.0.0.1:59979 | Could not find file 'C:\inetpub\wwwroot\fcis1/%D8%A7hello'.
+------------------------------------
+Date time: 12/30/2021 12:32:32 AM
+Message: 127.0.0.1:57891 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 11:39:33 AM
+Message: 127.0.0.1:59842 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 12:46:37 PM
+Message: 192.168.43.169:57473 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 1:08:00 PM
+Message: 192.168.0.181:49734 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 1:19:31 PM
+Message: 192.168.0.181:49871 | Could not find file 'C:\inetpub\wwwroot\fcis1\Redirect.html'.
+------------------------------------
+Date time: 12/30/2021 1:19:39 PM
+Message: 192.168.0.181:49878 | Could not find file 'C:\inetpub\wwwroot\fcis1\Redirect.html'.
+------------------------------------
+Date time: 12/30/2021 1:23:55 PM
+Message: 192.168.0.181:50378 | Could not find file 'C:\inetpub\wwwroot\fcis1\Redirect.html'.
+------------------------------------
+Date time: 12/30/2021 1:23:55 PM
+Message: 192.168.0.181:50378 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/30/2021 1:24:27 PM
+Message: 192.168.0.181:50400 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/30/2021 1:25:08 PM
+Message: 192.168.0.181:50420 | Could not find file 'C:\inetpub\wwwroot\fcis1/aboutus.htmll'.
+------------------------------------
+Date time: 12/30/2021 1:26:23 PM
+Message: 192.168.0.181:50452 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/30/2021 1:28:07 PM
+Message: 192.168.0.181:50520 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/30/2021 1:28:49 PM
+Message: 192.168.0.181:50541 | Could not find file 'C:\inetpub\wwwroot\fcis1/'.
+------------------------------------
+Date time: 12/30/2021 1:29:52 PM
+Message: 192.168.0.181:50595 | Could not find file 'C:\inetpub\wwwroot\fcis1/aboututs.html'.
+------------------------------------
+Date time: 12/30/2021 1:31:26 PM
+Message: 192.168.0.181:50680 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 1:52:19 PM
+Message: 192.168.0.181:51219 | Could not find file 'C:\inetpub\wwwroot\fcis1/aasodasodiasdus2.html'.
+------------------------------------
+Date time: 12/30/2021 1:52:29 PM
+Message: 192.168.0.181:51224 | Could not find file 'C:\inetpub\wwwroot\fcis1/aasodasodiasdus2.html'.
+------------------------------------
+Date time: 12/30/2021 1:52:29 PM
+Message: 192.168.0.181:51224 | Could not find file 'C:\inetpub\wwwroot\fcis1\NotFound.html'.
+------------------------------------
+Date time: 12/30/2021 1:55:00 PM
+Message: 192.168.0.181:51360 | Access to the path 'C:\inetpub\wwwroot\fcis1\main.html' is denied.
+------------------------------------
+Date time: 12/30/2021 1:55:28 PM
+Message: 192.168.0.181:51362 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 1:55:38 PM
+Message: 192.168.0.181:51374 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 2:56:01 PM
+Message: 127.0.0.1:55762 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 3:02:56 PM
+Message: 192.168.43.169:62714 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 3:03:30 PM
+Message: 192.168.43.169:62733 | Could not find file 'C:\inetpub\wwwroot\fcis1\BadRequest.html'.
+------------------------------------
+Date time: 12/30/2021 3:05:21 PM
+Message: 127.0.0.1:60037 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
+Date time: 12/30/2021 3:06:23 PM
+Message: 127.0.0.1:60037 | Could not find file 'C:\inetpub\wwwroot\fcis1/aasdoapsidapsd'.
+------------------------------------
+Date time: 12/30/2021 3:09:44 PM
+Message: 192.168.43.169:63313 | Could not find file 'C:\inetpub\wwwroot\fcis1/poasidpaosid'.
+------------------------------------
+Date time: 12/30/2021 3:11:12 PM
+Message: 192.168.43.169:51258 | Could not find file 'C:\inetpub\wwwroot\fcis1/poasidpaosid'.
+------------------------------------
+Date time: 12/30/2021 3:12:58 PM
+Message: 127.0.0.1:52133 | Could not find file 'C:\inetpub\wwwroot\fcis1/favicon.ico'.
+------------------------------------
